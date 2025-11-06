@@ -1,0 +1,1 @@
+UDP Selective Repeat is a reliability mechanism implemented over UDP. It uses sequence numbers and acknowledgments to track packets. Only lost or corrupted packets are retransmitted, improving efficiency over Go-Back-N. Suitable for custom file transfer or streaming protocols.
