@@ -111,4 +111,4 @@ make clean
 - University networking assignments
 
 ## Author
-Nina Dragicevic
+Nina Dragićević
